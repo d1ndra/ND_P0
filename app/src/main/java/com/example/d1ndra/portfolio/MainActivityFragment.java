@@ -70,7 +70,7 @@ public class MainActivityFragment extends Fragment {
             }
         });
 
-        Button b5 = (Button) rootview.findViewById(R.id.button5);
+        Button b5 = (Button) rootview.findViewById(R.id.capstone);
         b5.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
                 Context context = getActivity();
